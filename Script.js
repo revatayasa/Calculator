@@ -8,6 +8,7 @@ function appendToDisplay(value) {
 function clearDisplay() {
     displayValue = '';
     updateDisplay();
+    
 }
 
 function calculate() {
